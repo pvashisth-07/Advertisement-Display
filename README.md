@@ -92,8 +92,10 @@ gcc Ads.c -o Ads
 ---
 
 ## Contact
-📧 **Email:** pranav.vashisth@example.com  
-🔗 **GitHub:** [Pranav Vashisth](https://github.com/your-github)
+📧 **Email**: [pvashisth0711@gmail.com](mailto:pvashisth0711@gmail.com)
+🔗 **GitHub**: [pvashisth-07](https://github.com/pvashisth-07)
+🔗 **LinkedIn**: [Pranav Vashisth](https://www.linkedin.com/in/pranav-vashisth-2b7906320/)
+
 
 Feel free to contribute or report issues! 🚀
 
